@@ -1,0 +1,438 @@
+﻿=== FILE ===
+{
+  "name": "Medio ΓÇô Dental Clinic & Healthcare Website Template | Dentist, Appointments & CMS (Community)",
+  "lastModified": "2026-10-22T18:57:05Z",
+  "version": "2413262989418065301"
+}
+
+=== STYLES ===
+{
+  "0:11": {
+    "key": "028a79f3234926e42ae571882f6fd8a488d0e029",
+    "name": "1",
+    "styleType": "FILL",
+    "remote": true,
+    "description": ""
+  },
+  "0:12": {
+    "key": "10006f0a22ab6f6b312242339cee31f66940eed2",
+    "name": "H6/S/Regular",
+    "styleType": "TEXT",
+    "remote": true,
+    "description": ""
+  },
+  "0:13": {
+    "key": "7ed1a9c940d932978357a469ea0b1c13b6e28fb7",
+    "name": "Mono/Black",
+    "styleType": "FILL",
+    "remote": true,
+    "description": ""
+  },
+  "0:14": {
+    "key": "9d140c414379deec1be34b4f6f366a74af668a1b",
+    "name": "Mono/Gray 70",
+    "styleType": "FILL",
+    "remote": true,
+    "description": ""
+  },
+  "0:15": {
+    "key": "0c0fe80d51fc189230e5beeae8ecf66e53fd67a4",
+    "name": "Mono/Gray 60",
+    "styleType": "FILL",
+    "remote": true,
+    "description": ""
+  },
+  "0:16": {
+    "key": "c7a4f8974a9d9619810ef85e7a8d936435445326",
+    "name": "Mono/Gray 10",
+    "styleType": "FILL",
+    "remote": true,
+    "description": ""
+  },
+  "0:4": {
+    "key": "47897143cacc24e6abb43342e1f3da565e20cbc8",
+    "name": "Mono/Dark 90",
+    "styleType": "FILL",
+    "remote": true,
+    "description": ""
+  },
+  "0:3": {
+    "key": "a4ac3fcfcce7fa1470eaf41f4211b7726bf98778",
+    "name": "Mono/Gray 20",
+    "styleType": "FILL",
+    "remote": true,
+    "description": ""
+  }
+}
+
+=== COMPONENTS ===
+[
+  {
+    "name": "facebook-f",
+    "description": ""
+  },
+  {
+    "name": "instagram",
+    "description": "social network"
+  },
+  {
+    "name": "twitter",
+    "description": "social network, bird"
+  }
+]
+
+=== COLORS ===
+281x #3C3D42|100| :: Home [0:365] | About Us [0:366] | Pages [0:367] | Services [0:368]
+189x #FFFFFF|100| :: Contact Us [0:372] | Vector 3 [0:374] | Frame 7 [0:382] | Frame 119 [0:388]
+124x #121212|100| :: ( Main Pages ) [0:631] | Home [0:633] | About [0:634] | Services [0:635]
+39x #676767|100| :: Simple cosmetic dentistry options designed to enhance your everyday smile with natural, confident results. [0:748] | Home / Single Post [0:749] | Story Teller [0:759] | Category : [0:760]
+36x #6A6C71|100| :: Dental Practices [0:390] | Dental IPO Portfolio [0:393] | Active Dental Holdings [0:396] | Dental Marketing Group [0:399]
+25x #C2714D|100| :: Frame 6 [0:384] | Frame 396 [0:514] | Frame 1948754086 [0:550] | Frame 1948754087 [0:554]
+23x #000000|100| :: About us [0:380] | San Antonio, TX [0:546] | Las Vegas, NV [0:547] | Kavin Peterson [0:548]
+10x #FEF9EF|100| :: Home [0:363] | Blog Single [0:732] | Blog Single [0:845] | Make an Appointment [0:953]
+8x #212123|95| :: Frame 1948754096 [0:608] | Frame 1948754096 [0:826] | Frame 1948754096 [0:934] | Frame 1948754096 [0:1196]
+4x #4F5154|100| :: $8B+ [0:389] | 80+ [0:392] | 100+ [0:395] | 175 [0:398]
+4x #FFFFFF|10| :: Frame 1948754060 [0:426] | Frame 1948754062 [0:428] | Frame 1948754063 [0:430] | Frame 1948754061 [0:432]
+3x #2E2E31|100| :: Frame 1948754073 [0:474] | Frame 1948754074 [0:479] | Frame 1948754075 [0:484]
+3x #202020|100| :: Vector [I0:682;2:2115] | Vector [I0:692;2:2115] | Vector [I0:702;2:2115]
+2x #F3EFE5|100| :: Frame 1948754084 [0:544] | Frame 1948754108 [0:1613]
+1x #EC5B37|100| :: // [0:379]
+1x #000000|10| :: Frame 1948754070 [0:418]
+1x #DDDDDD|100| :: Benefits [0:423]
+1x #212123|100| :: Frame 1948754072 [0:466]
+1x #212123|96| :: Frame 1948754097 [0:468]
+1x GRADIENT:GRADIENT_LINEAR|#000000>#666666 :: Frame 1948754102 [0:668]
+1x #858585|100| :: Committed to making every visit comfortable while providing advanced, gentle dental care for patients of all ages. [0:672]
+1x #EBD1FF|100| :: Frame 10 [0:678]
+1x #4E4C4B|100| :: James Anderson [0:779]
+
+=== STROKES ===
+61x #E2E3E4|100 :: Frame 397 [0:492] | Frame 396 [0:494] | Frame 395 [0:496] | Frame 397 [0:502]
+47x #F4F5F5|100 :: Line 21 [0:409] | Line 19 [0:410] | Line 22 [0:411] | Line 23 [0:412]
+31x #3C3D42|100 :: Icon [I0:495;206:17585] | Icon [I0:497;206:17581] | Icon [I0:505;206:17585] | Icon [I0:507;206:17581]
+28x #FFFFFF|100 :: Vector 3 [0:374] | Vector 3 [0:386] | Icon [I0:515;206:17585] | Vector 3 [0:580]
+10x #FFFFFF|24 :: Name [0:973] | Name [0:975] | Name [0:977] | Name [0:979]
+7x #000000|10 :: Line 1 [0:375] | Line 27 [0:558] | Line 28 [0:559] | Line 1 [0:1227]
+6x #202020|100 :: Icon [I0:684;206:17585] | Icon [I0:686;206:17581] | Icon [I0:694;206:17585] | Icon [I0:696;206:17581]
+5x #3C3D42|10 :: Line 1 [0:744] | Line 1 [0:857] | Line 1 [0:965] | Line 1 [0:1043]
+3x #000000|20 :: Line 30 [0:1620] | Line 31 [0:1621] | Line 32 [0:1622]
+1x #FFFFFF|10 :: Quotes [0:774]
+
+=== TEXT STYLES ===
+82x |Inter Tight|400|16|17.760000228881836|-0.48||LEFT|#121212 :: Home | About | Services
+52x |Inter Tight|400|16|17.760000228881836|-0.48||LEFT|#3C3D42 :: Home | About | Services
+50x |Inter Tight|500|18|21.779296875|0||LEFT|#3C3D42 :: Home | About Us | Pages
+26x |Inter Tight|400|16|19.359375|0||LEFT|#6A6C71 :: Pediatric Dentist \ Experience: 5 years | Periodontist & Implant \ Experience: 5 years | Dental Assistant \ Experience: 5 years
+24x |Inter Tight|400|16|22.399999618530273|-0.48|UPPER|LEFT|#121212 :: ( Main Pages ) | ( Company ) | ( Socials )
+20x |Libre Caslon Text|400|24|28.80000114440918|0||LEFT|#3C3D42 :: Dr. James Morgan, DMD | Dr. Nadal James, DMD | Dr. Harshall Gibbs, DMD
+19x |Geist|400|16|22.399999618530273|0||LEFT|#676767 :: Simple cosmetic dentistry focuses on enhancing the appearance of your  | A variety of simple treatments can significantly improve your smile wi | Simple cosmetic dentistry is all about helping you feel more confident
+17x |Libre Caslon Text|700|24|28.80000114440918|0||LEFT|#3C3D42 :: Dental Fillings | Root Canal Theraphy | Orthodontics
+16x |Inter Tight|400|16|22.399999618530273|-0.48|UPPER|LEFT|#3C3D42 :: ( Main Pages ) | ( Company ) | ( Socials )
+14x |Inter|700|18|28|0||RIGHT|#3C3D42 :: More About Us | More Articles | Make An Appointment
+12x |Poppins|400|20|28|-0.4||LEFT|#121212 :: ┬⌐ 2026 Copyright - Medio | All rights reserved.
+11x |Libre Caslon Text|500|20|24|0||LEFT|#000000 :: Las Vegas, NV  | Benefits of Early Orthodontic Checkups for Kids. | Simple Cosmetic Dentistry Options for Everyday Smiles.
+10x |Inter Display V|700|28|33.8515625|0||LEFT|#3C3D42 :: Medio.
+10x |Inter|700|18|28|0||RIGHT|#FFFFFF :: Contact Us
+10x |Be Vietnam|400|16|23.375999450683594|0||CENTER|#FFFFFF :: //
+10x |Inter Display V|700|428|517.4453125|0||LEFT|#3C3D42 :: Medio.
+9x |Inter Tight|400|16|19.359375|0||CENTER|#FFFFFF :: Process | Appointment
+8x |Libre Caslon Text|600|56|61.60000228881836|0||CENTER|#FFFFFF :: Get the Smile You Deserve Today!
+8x |Libre Caslon Text|600|48|57.60000228881836|0||CENTER|#3C3D42 :: Simple Cosmetic Dentistry Options for Everyday Smiles. | Our Blog | Make An Appointment
+8x |Inter Tight|400|16|22.399999618530273|0||CENTER|#676767 :: Simple cosmetic dentistry options designed to enhance your everyday sm | Book your appointment today and take the first step toward a healthier | Explore our comprehensive dental services designed to keep your smile 
+8x |Inter|400|18|20|0||CENTER|#676767 :: Home / Single Post | Home / Blog | Home / Make An Appointment
+8x |Poppins|400|20|28|-0.4||LEFT|#3C3D42 :: ┬⌐ 2026 Copyright - Medio | All rights reserved.
+6x |Inter Tight|400|16|19.200000762939453|-0.48||LEFT|#121212 :: Ranchview Dr. Richardson, California 62639, CA
+6x |Inter Tight|500|18|21.779296875|0||LEFT|#000000 :: Email : mediodental@gmail.com | / | Phone : (+880) 1245 65886
+6x |Inter Tight|500|16|19.359375|0||LEFT|#6A6C71 :: 456 Maple Avenue, Rivertown, California, USA | Open on Google Maps | Tuesday: 10:00am to 4:00pm
+5x |Be Vietnam|400|16|23.375999450683594|0||CENTER|#3C3D42 :: //
+5x |Inter Tight|400|16|19.359375|0||CENTER|#3C3D42 :: Services | Dentists | Testimonial
+5x |Inter Tight|400|18|25.19999885559082|0||LEFT|#FFFFFF :: Department * | Name * | Tell Us about yourself *
+5x |Geist|400|18|25.19999885559082|0||LEFT|#FFFFFF :: Full Name * | Subject * | Email *
+4x |Inter Tight|500|16|19.359375|0||CENTER|#6A6C71 :: Dental Practices | Dental IPO Portfolio | Active Dental Holdings
+4x |Libre Caslon Text|700|24|28.80000114440918|0||CENTER|#FFFFFF :: A Brighter Smile | Better Health | Enhanced Confidence
+4x |Libre Caslon Text|600|36|43.20000076293945|0||LEFT|#FFFFFF :: 1. Schedule Your Visit. | 2. Meet Your Dentist. | 3. Smile with Confidence.
+4x |Inter Tight|400|16|19.200000762939453|-0.48||LEFT|#3C3D42 :: Ranchview Dr. Richardson, California 62639, CA
+4x |Inter Tight|500|16|19.359375|0||LEFT|#3C3D42 :: Location | Contact us | Mon - Sat: 8:00am to 5:00pm
+3x |Libre Caslon Text|600|86|103.20000457763672|0||CENTER|#4F5154 :: 80+ | 100+ | 175
+3x |Inter Tight|500|16|22.399999618530273|0||LEFT|#FFFFFF :: Book online or call us to choose a time that works best for you. We of | Meet with our dental experts to discuss your needs. WeΓÇÖll listen, asse | Get the treatment need in a comfortable, caring environment. From chec
+3x |Libre Caslon Text|600|56|67.20000457763672|0||CENTER|#3C3D42 :: A Trusted, Caring Team. | Excellence in Care, Backed by Testimonials.
+3x |Libre Caslon Text|500|20|24|0||LEFT|#FFFFFF :: Houston, TX 
+3x |Libre Caslon Text|500|20|24|0||CENTER|#FFFFFF :: Darrell Steward
+3x |Inter Tight|500|16|19.359375|0||CENTER|#FFFFFF :: 09 March 2025
+3x |Libre Caslon Text|500|20|26|0||LEFT|#FFFFFF :: I came in for dental implants after years of hiding my smile. The resu | I was always nervous about visiting the dentist, but the team made me  | From the first consultation to the final results, everything was handl
+3x |Inter Tight|400|16|22.399999618530273|0||LEFT|#676767 :: Story Teller | Category : | We believe in honest communication and clear guidance at every step.
+2x |Libre Caslon Text|600|56|67.20000457763672|0||LEFT|#3C3D42 :: Comprehensive Services. | Our Blog
+2x |Libre Caslon Text|500|20|24|0||CENTER|#000000 :: Kavin Peterson | William Thomson
+2x |Geist|600|20|24|0||LEFT|#3C3D42 :: info.dental@gmail.com | (555) 555-5555
+1x |Be Vietnam|400|16|23.375999450683594|0||CENTER|#EC5B37 :: //
+1x |Inter Tight|400|16|19.359375|0||CENTER|#000000 :: About us
+1x |Libre Caslon Text|500|32|38.400001525878906|-0.64||CENTER|#3C3D42 :: We are dedicated to providing high-quality dental care using modern te
+1x |Libre Caslon Text|600|86|103.20000457763672|0||LEFT|#4F5154 :: $8B+
+1x |Inter Tight|400|16|19.359375|0||CENTER|#DDDDDD :: Benefits
+1x |Libre Caslon Text|600|56|67.20000457763672|0||LEFT|#FFFFFF :: Benefits of Our Dental Services.
+1x |Libre Caslon Text|600|56|67.20000457763672|0||CENTER|#FFFFFF :: Supporting Your Path to a Healthier Smile.
+1x |Libre Caslon Text|500|20|24.600000381469727|0||CENTER|#000000 :: San Antonio, TX
+1x |Libre Caslon Text|600|58|69.60000610351562|-1.74||LEFT|#3C3D42 :: Modern Dental Care for a Healthier, Brighter Smile.
+1x |Inter Tight|500|18|25.19999885559082|0||LEFT|#858585 :: Committed to making every visit comfortable while providing advanced, 
+1x |Inter Tight|500|18|25.19999885559082|0||LEFT|#3C3D42 :: James Anderson
+1x |Inter Tight|400|16|22.399999618530273|0||RIGHT|#676767 :: Restaurant
+1x |Libre Caslon Text|700|24|28.80000114440918|-0.24||LEFT|#3C3D42 :: ΓÇ£A confident smile doesnΓÇÖt require complex treatmentsΓÇösometimes, the s
+1x |Inter Tight|400|14|16.80000114440918|0||LEFT|#4E4C4B :: James Anderson
+1x |Libre Caslon Text|600|32|35.20000076293945|0||LEFT|#FFFFFF :: Book Your Appointment
+1x |Libre Caslon Text|600|36|43.20000076293945|0||LEFT|#3C3D42 :: Have any questions? WeΓÇÖre just a form awayΓÇö send us now.
+1x |Libre Caslon Text|400|20|24.600000381469727|0||LEFT|#3C3D42 :: Trusted Partners
+1x |Libre Caslon Text|400|48|57.60000228881836|0||LEFT|#000000 :: What we stand for!
+1x |Libre Caslon Text|600|48|57.60000228881836|0||LEFT|#3C3D42 :: Dr. Harshall Gibbs
+1x |Inter Tight|500|16|19.359375|0||LEFT|#000000 :: Dental Assistant 
+
+=== EFFECTS ===
+6x DROP_SHADOW|r=8|x=0,y=4|#000000@0.07999999821186066 :: image [0:402] | image [0:403] | image [0:404] | image [0:405]
+1x BACKGROUND_BLUR|r=114 :: Frame 1948754070 [0:418]
+
+=== RADII ===
+100x 12 :: Frame 119 [0:388] | Frame 120 [0:391] | Frame 121 [0:394] | Frame 122 [0:397]
+51x 85.00039672851562 :: Frame 397 [0:492] | Frame 396 [0:494] | Frame 395 [0:496] | Frame 397 [0:502]
+23x 100 :: Frame 7 [0:382] | Frame 7 [0:576] | Frame 7 [0:622] | Frame 7 [0:673]
+21x 10 :: Frame 1948754078 [0:489] | Frame 1948754081 [0:499] | Frame 1948754079 [0:509] | Frame 1948754080 [0:519]
+21x [0,0,0,0] :: Group 1 [0:364] | Group 48095488 [0:419] | Group 48095492 [0:469] | Group 48095491 [0:609]
+19x 50 :: Frame 6 [0:384] | Group 48095487 [0:425] | Frame 1948754060 [0:426] | Frame 1948754062 [0:428]
+10x 20 :: Frame 1948754070 [0:418] | Frame 1948754073 [0:474] | Frame 1948754074 [0:475] | Frame 1948754074 [0:479]
+10x 30 :: Frame 3 [0:371] | Frame 3 [0:740] | Frame 3 [0:853] | Frame 3 [0:961]
+10x 40 :: Group 48095484 [0:400] | Group 48095483 [0:401] | image [0:402] | image [0:403]
+2x [0,12,12,0] :: Frame 54 [0:971] | Frame 54 [0:1049]
+2x [12,0,0,12] :: image 9 [0:992] | Frame 1948754066 [0:1066]
+
+=== LAYOUT MODES ===
+60x VERTICAL|gap=13|pad=0,0,0,0|primary=|counter=|wrap=NO_WRAP :: Frame 1948754013 [0:632] | Frame 1948754013 [0:641] | Frame 1948754013 [0:650] | Frame 1948754013 [0:658]
+51x HORIZONTAL|gap=6.800032138824463|pad=10.200047492980957,10.200047492980957,10.200047492980957,10.200047492980957|primary=|counter=CENTER|wrap=NO_WRAP :: Frame 397 [0:492] | Frame 396 [0:494] | Frame 395 [0:496] | Frame 397 [0:502]
+40x VERTICAL|gap=32|pad=0,0,0,0|primary=|counter=CENTER|wrap=NO_WRAP :: Frame 1948754014 [0:630] | Frame 1948754015 [0:639] | Frame 1948754015 [0:648] | Frame 1948754015 [0:656]
+32x VERTICAL|gap=20|pad=0,0,0,0|primary=|counter=|wrap=NO_WRAP :: Frame 1948754091 [0:586] | Frame 1948754090 [0:588] | Frame 1948754092 [0:591] | Frame 1948754090 [0:593]
+24x HORIZONTAL|gap=4|pad=4,4,4,4|primary=CENTER|counter=CENTER|wrap=NO_WRAP :: Arrow vector [0:373] | Arrow vector [0:385] | Arrow vector [0:579] | Arrow vector [0:625]
+19x HORIZONTAL|gap=8|pad=0,0,0,0|primary=|counter=CENTER|wrap=NO_WRAP :: Frame 166 [0:378] | Frame 166 [0:421] | Frame 166 [0:436] | Frame 166 [0:471]
+14x HORIZONTAL|gap=15|pad=7,24,7,24|primary=|counter=CENTER|wrap=NO_WRAP :: Frame 7 [0:382] | Frame 7 [0:576] | Frame 7 [0:622] | Frame 7 [0:673]
+14x HORIZONTAL|gap=10|pad=10,10,10,10|primary=|counter=CENTER|wrap=NO_WRAP :: Frame 6 [0:384] | Frame 6 [0:578] | Frame 6 [0:624] | Frame 6 [0:675]
+10x HORIZONTAL|gap=10|pad=12,25,12,25|primary=CENTER|counter=CENTER|wrap=NO_WRAP :: Frame 3 [0:371] | Frame 3 [0:740] | Frame 3 [0:853] | Frame 3 [0:961]
+10x HORIZONTAL|gap=550|pad=0,0,0,0|primary=SPACE_BETWEEN|counter=CENTER|wrap=NO_WRAP :: Copyright [0:665] | Copyright [0:821] | Copyright [0:929] | Copyright [0:1028]
+9x HORIZONTAL|gap=24|pad=0,0,0,0|primary=|counter=CENTER|wrap=NO_WRAP :: Highlight [0:387] | Frame 1948754064 [0:440] | Frame 1948754065 [0:447] | Frame 1948754066 [0:454]
+9x HORIZONTAL|gap=8|pad=12,12,12,12|primary=|counter=CENTER|wrap=NO_WRAP :: Frame 396 [0:681] | Frame 396 [0:683] | Frame 395 [0:685] | Frame 396 [0:691]
+8x VERTICAL|gap=18|pad=0,0,0,0|primary=|counter=CENTER|wrap=NO_WRAP :: Frame 1948754100 [0:745] | Frame 1948754100 [0:858] | Frame 1948754100 [0:966] | Frame 1948754100 [0:1044]
+8x VERTICAL|gap=15|pad=0,0,0,0|primary=|counter=CENTER|wrap=NO_WRAP :: Frame 1948754053 [0:746] | Frame 1948754053 [0:859] | Frame 1948754053 [0:967] | Frame 1948754053 [0:1045]
+6x HORIZONTAL|gap=10|pad=10,10,24,0|primary=|counter=CENTER|wrap=NO_WRAP :: Name [0:973] | Name [0:975] | Name [0:1051] | Name [0:1053]
+4x HORIZONTAL|gap=10|pad=16,20,16,20|primary=CENTER|counter=CENTER|wrap=NO_WRAP :: Frame 1948754060 [0:426] | Frame 1948754062 [0:428] | Frame 1948754063 [0:430] | Frame 1948754061 [0:432]
+3x VERTICAL|gap=40|pad=0,0,0,0|primary=|counter=CENTER|wrap=NO_WRAP :: Frame 1948754046 [0:376] | Frame 1948754045 [0:377] | Frame 1000003881 [0:776]
+3x VERTICAL|gap=10|pad=0,0,0,0|primary=|counter=|wrap=NO_WRAP :: Frame 1948754103 [0:1284] | Frame 1948754104 [0:1293] | Frame 1948754105 [0:1300]
+2x VERTICAL|gap=50|pad=0,0,0,0|primary=|counter=|wrap=NO_WRAP :: Frame 1948754101 [0:764] | Frame 1948754101 [0:1281]
+1x VERTICAL|gap=26|pad=0,0,0,0|primary=|counter=|wrap=NO_WRAP :: Frame 1948754069 [0:420]
+1x VERTICAL|gap=30|pad=0,0,0,0|primary=|counter=|wrap=NO_WRAP :: Frame 9 [0:669]
+1x HORIZONTAL|gap=18|pad=0,0,0,0|primary=|counter=CENTER|wrap=NO_WRAP :: Frame 1948754052 [0:679]
+1x HORIZONTAL|gap=36|pad=0,0,0,0|primary=|counter=CENTER|wrap=NO_WRAP :: Frame 1948754050 [0:753]
+1x HORIZONTAL|gap=15|pad=0,0,0,0|primary=|counter=MAX|wrap=NO_WRAP :: Frame 1948754048 [0:754]
+1x VERTICAL|gap=1|pad=0,0,0,0|primary=|counter=|wrap=NO_WRAP :: Frame 1948754047 [0:757]
+1x HORIZONTAL|gap=32|pad=0,0,0,0|primary=CENTER|counter=CENTER|wrap=NO_WRAP :: Frame 1948754067 [0:768]
+1x VERTICAL|gap=31|pad=0,0,0,0|primary=|counter=|wrap=NO_WRAP :: Frame 1948754045 [0:775]
+1x VERTICAL|gap=40|pad=0,0,0,0|primary=MAX|counter=|wrap=NO_WRAP :: Frame 1261153792 [0:777]
+1x HORIZONTAL|gap=10|pad=10,10,64,0|primary=|counter=CENTER|wrap=NO_WRAP :: Name [0:1057]
+1x VERTICAL|gap=16|pad=0,0,0,0|primary=|counter=|wrap=NO_WRAP :: Frame 1948754046 [0:1068]
+
+=== IMAGE REFS ===
+{
+  "2f82219a0a71ebea9413d61e9fcc98e3a401e60a": [
+    "image [0:402]",
+    "Frame 1948754054 [0:417]"
+  ],
+  "0ff925a730a7c85471226a4c11ccd68d3c5f30eb": [
+    "image [0:403]"
+  ],
+  "9e48c03b0555882298627ec38dbb1fa951c1511a": [
+    "image [0:403]"
+  ],
+  "ebf03ac23380356229c11a1019ae60802599435a": [
+    "image [0:404]"
+  ],
+  "6a43b3a73d727f48d5b280d8b3d3f113985139d1": [
+    "image [0:405]"
+  ],
+  "fe0b59419848c064033536f9695d266139f33358": [
+    "image [0:406]"
+  ],
+  "96f4903ee3c35dce41aa85aa11b9b4969a7d5cc5": [
+    "image [0:406]",
+    "image [0:407]",
+    "image [0:408]"
+  ],
+  "21e4d29d1940d3972b4c147b63026457bfa7da41": [
+    "image [0:407]"
+  ],
+  "df94c0edbf77663aca6dbfe09765de6ab48e703e": [
+    "image [0:408]"
+  ],
+  "0a7bf314622b5572d29f456ce18d0421ad4dd5ac": [
+    "image [0:444]",
+    "image [0:1134]"
+  ],
+  "fb81c8e2cb38a9c092189c3a88be2ae0e8e713b6": [
+    "image [0:451]",
+    "image [0:1141]",
+    "image [0:1236]"
+  ],
+  "b5285acf74ae66db2570a162cb0fa592d3e4a031": [
+    "image [0:458]",
+    "image [0:1148]"
+  ],
+  "1e38abad35cf21fb9cc30f78295923e6ff2e2ca0": [
+    "image [0:465]",
+    "Frame 1948754102 [0:1155]"
+  ],
+  "304006f4b719902ba2bcac6fd77743697fe7025e": [
+    "2713 2 [0:467]",
+    "2713 1 [0:607]",
+    "2713 1 [0:825]",
+    "2713 1 [0:933]",
+    "2713 1 [0:1195]",
+    "2713 1 [0:1316]"
+  ],
+  "1583b0a3a0e47e98a277b41a3d7de8da3c246ff4": [
+    "image 2 [0:476]"
+  ],
+  "0ccf3ecb57c0d4339d18484b4517471db0d264d3": [
+    "image 3 [0:481]"
+  ],
+  "2d8771551c8448f3e1ee1203eb7d6931415742ec": [
+    "image 4 [0:486]"
+  ],
+  "42e60c802fcfae69e1904fe49f24201964b4072f": [
+    "image 5 [0:498]",
+    "image 5 [0:1409]",
+    "image 5 [0:1567]"
+  ],
+  "a5a6af9e799a0544c9b6cb8f1a7758e704a3db06": [
+    "image 5 [0:508]",
+    "image 5 [0:1419]",
+    "image 5 [0:1577]"
+  ],
+  "1381b74c4ffae7fa57764f19a042becc7d3511c5": [
+    "image 5 [0:518]",
+    "image 5 [0:1429]",
+    "image 5 [0:1587]",
+    "Professional Doctor Portrait 1 [0:1705]"
+  ],
+  "f6f0df5b23395e787742daa8ccccb88b6c958c68": [
+    "image 5 [0:528]",
+    "image 5 [0:1439]",
+    "image 5 [0:1597]"
+  ],
+  "002694df0c66ab4204b9da41f27ebdac8df81433": [
+    "image 5 [0:538]",
+    "image 5 [0:1449]",
+    "image 5 [0:1607]"
+  ],
+  "991cbde9bf6e563d8e5d5f408441de2d7decb744": [
+    "man-with-glad-face-expression-keeps-arms-folded-has-positive-talk-with-friend-discuss-something-funny-wears-warm-jumper-poses-beige 1 [0:568]"
+  ],
+  "66ed84e11032fa1317a736708521fedb13621cd6": [
+    "image 7 [0:587]",
+    "image 7 [0:864]"
+  ],
+  "b9de7fde3812a578082fd09548e948205efeab52": [
+    "image 7 [0:592]",
+    "image 7 [0:751]",
+    "image 7 [0:874]"
+  ],
+  "fc74aea2437cc6aaef8d59dcfdfedf98989ee35f": [
+    "image 8 [0:597]",
+    "image 9 [0:879]"
+  ],
+  "5b2ea4401f1ca337e514d6eb07bc216caf95ef5e": [
+    "image 9 [0:602]",
+    "image 9 [0:889]"
+  ],
+  "0e4506da31e0452292358a680b97a5dfe5c72478": [
+    "image 11 [0:615]",
+    "image 11 [0:833]",
+    "image 11 [0:941]",
+    "image 11 [0:1203]",
+    "image 11 [0:1324]",
+    "image 11 [0:1469]"
+  ],
+  "19bc865d2ce7c531f367af3c1e790180d734364b": [
+    "image 10 [0:617]",
+    "image 10 [0:835]",
+    "image 10 [0:943]",
+    "image 10 [0:1205]",
+    "image 10 [0:1326]",
+    "image 10 [0:1471]"
+  ],
+  "ab315935b2e71c62b35d1ba056f08eeeea68220f": [
+    "image 12 [0:619]",
+    "image 12 [0:837]",
+    "image 12 [0:945]",
+    "image 12 [0:1207]",
+    "image 12 [0:1328]",
+    "image 12 [0:1473]"
+  ],
+  "54096062af31dd5058af533197efa3c80b1bac1a": [
+    "image 13 [0:621]",
+    "image 13 [0:839]",
+    "image 13 [0:947]",
+    "image 13 [0:1209]",
+    "image 13 [0:1330]",
+    "image 13 [0:1475]"
+  ],
+  "d1b77da60fa4793e9569c74a1048d943db441cab": [
+    "Frame 1948754102 [0:668]"
+  ],
+  "20ecff5fdb3a3abc9a9a3134d0d65d4adf3035b7": [
+    "man-with-glad-face-expression-keeps-arms-folded-has-positive-talk-with-friend-discuss-something-funny-wears-warm-jumper-poses-beige 1 [0:718]"
+  ],
+  "f8c17871c11f2da15507945a4ce29e7adb5f4d4b": [
+    "man-with-glad-face-expression-keeps-arms-folded-has-positive-talk-with-friend-discuss-something-funny-wears-warm-jumper-poses-beige 1 [0:729]"
+  ],
+  "ebff7c50fb8bc57c803a3fb3aaf98adf32ac43ad": [
+    "handsome-bearded-businessman-rubbing-hands-having-deal (1) 2 [0:756]"
+  ],
+  "8d724dfd89b5a3696cc7f791c61fda6a28e6fefe": [
+    "Frame 1261153850 [0:769]"
+  ],
+  "6dd965f2894f0104534ec09a34af5291b09de527": [
+    "image [0:770]"
+  ],
+  "12c65021bc1e30d12ee95edb7f8d0c616cca30df": [
+    "image 7 [0:869]"
+  ],
+  "594d7ad99c7c8f1dd8938c7f7140d8a189bc5186": [
+    "image 8 [0:884]"
+  ],
+  "53da0730739179b53028a06bf9129a2823c836fb": [
+    "image 9 [0:992]"
+  ],
+  "5bd175ba6c28ba393e9e6772bbb87d3fa0be2e1e": [
+    "image 7 [0:1072]"
+  ],
+  "4aa2f5d359ada67a96ff49947503a715a38fd16f": [
+    "image [0:1154]"
+  ],
+  "5e9514706902baef755b30be7a82e4feba8c756c": [
+    "image 5 [0:1459]"
+  ],
+  "4274e349aef9dcbb99c114092f93ea7989724b33": [
+    "image [0:1543]"
+  ],
+  "0239195723291670cc274bf14b523cb994c92905": [
+    "close-up-patient-mouth-undergoing-dental-check-up 1 [0:1544]"
+  ],
+  "d21b8af4c674e493318596160c810051d289e98f": [
+    "image 8 [0:1549]"
+  ],
+  "948de501a1e899a24c59280671f2677069de2b25": [
+    "image 9 [0:1551]"
+  ],
+  "8d6610d13010734e5c65650f2d99f2fc5f5bf72d": [
+    "image 10 [0:1553]"
+  ],
+  "36e7d3d424a7108d58edc11919ae67dd5e06e59a": [
+    "image 11 [0:1555]"
+  ],
+  "8f4892641cdbab78159e083a5ce8eed2fa164554": [
+    "Frame 1948754107 [0:1624]"
+  ]
+}

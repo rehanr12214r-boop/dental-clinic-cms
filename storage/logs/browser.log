@@ -1,0 +1,36 @@
+[2026-10-18 09:18:00] local.ERROR: Uncaught TypeError: Cannot set properties of null (setting 'value') http://127.0.0.1:8000/build/assets/app-Ca_3d8PD.js 13 8428 TypeError Cannot set properties of null (setting 'value') TypeError: Cannot set properties of null (setting 'value')
+    at y (http://127.0.0.1:8000/build/assets/app-Ca_3d8PD.js:13:8428)
+    at Object.onChange (http://127.0.0.1:8000/build/assets/app-Ca_3d8PD.js:13:7517)
+    at q (http://127.0.0.1:8000/build/assets/app-Ca_3d8PD.js:5:20835)
+    at N (http://127.0.0.1:8000/build/assets/app-Ca_3d8PD.js:1:13509)
+    at HTMLDivElement.Oe (http://127.0.0.1:8000/build/assets/app-Ca_3d8PD.js:5:15882) {"url":"http://127.0.0.1:8000/","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36","timestamp":"2026-10-18T09:17:59.954Z"} 
+[2026-10-18 09:18:00] local.ERROR: Uncaught TypeError: Cannot set properties of null (setting 'value') http://127.0.0.1:8000/build/assets/app-Ca_3d8PD.js 13 8428 TypeError Cannot set properties of null (setting 'value') TypeError: Cannot set properties of null (setting 'value')
+    at y (http://127.0.0.1:8000/build/assets/app-Ca_3d8PD.js:13:8428)
+    at Object.onChange (http://127.0.0.1:8000/build/assets/app-Ca_3d8PD.js:13:7517)
+    at q (http://127.0.0.1:8000/build/assets/app-Ca_3d8PD.js:5:20835)
+    at N (http://127.0.0.1:8000/build/assets/app-Ca_3d8PD.js:1:13509)
+    at HTMLDivElement.Oe (http://127.0.0.1:8000/build/assets/app-Ca_3d8PD.js:5:15882) {"url":"http://127.0.0.1:8000/","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36","timestamp":"2026-10-18T09:17:59.955Z"} 
+[2026-10-18 09:18:10] local.ERROR: Uncaught TypeError: Cannot set properties of null (setting 'value') http://127.0.0.1:8000/build/assets/app-Ca_3d8PD.js 13 8428 TypeError Cannot set properties of null (setting 'value') TypeError: Cannot set properties of null (setting 'value')
+    at y (http://127.0.0.1:8000/build/assets/app-Ca_3d8PD.js:13:8428)
+    at Object.onChange (http://127.0.0.1:8000/build/assets/app-Ca_3d8PD.js:13:7517)
+    at q (http://127.0.0.1:8000/build/assets/app-Ca_3d8PD.js:5:20835)
+    at N (http://127.0.0.1:8000/build/assets/app-Ca_3d8PD.js:1:13509)
+    at HTMLDivElement.Oe (http://127.0.0.1:8000/build/assets/app-Ca_3d8PD.js:5:15882) {"url":"http://127.0.0.1:8000/","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36","timestamp":"2026-10-18T09:18:10.421Z"} 
+[2026-10-18 09:18:10] local.ERROR: Uncaught TypeError: Cannot set properties of null (setting 'value') http://127.0.0.1:8000/build/assets/app-Ca_3d8PD.js 13 8428 TypeError Cannot set properties of null (setting 'value') TypeError: Cannot set properties of null (setting 'value')
+    at y (http://127.0.0.1:8000/build/assets/app-Ca_3d8PD.js:13:8428)
+    at Object.onChange (http://127.0.0.1:8000/build/assets/app-Ca_3d8PD.js:13:7517)
+    at q (http://127.0.0.1:8000/build/assets/app-Ca_3d8PD.js:5:20835)
+    at N (http://127.0.0.1:8000/build/assets/app-Ca_3d8PD.js:1:13509)
+    at HTMLDivElement.Oe (http://127.0.0.1:8000/build/assets/app-Ca_3d8PD.js:5:15882) {"url":"http://127.0.0.1:8000/","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36","timestamp":"2026-10-18T09:18:10.421Z"} 
+[2026-10-18 09:18:14] local.ERROR: Uncaught TypeError: Cannot set properties of null (setting 'value') http://127.0.0.1:8000/build/assets/app-Ca_3d8PD.js 13 8428 TypeError Cannot set properties of null (setting 'value') TypeError: Cannot set properties of null (setting 'value')
+    at y (http://127.0.0.1:8000/build/assets/app-Ca_3d8PD.js:13:8428)
+    at Object.onChange (http://127.0.0.1:8000/build/assets/app-Ca_3d8PD.js:13:7517)
+    at q (http://127.0.0.1:8000/build/assets/app-Ca_3d8PD.js:5:20835)
+    at N (http://127.0.0.1:8000/build/assets/app-Ca_3d8PD.js:1:13509)
+    at HTMLDivElement.Oe (http://127.0.0.1:8000/build/assets/app-Ca_3d8PD.js:5:15882) {"url":"http://127.0.0.1:8000/","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36","timestamp":"2026-10-18T09:18:14.094Z"} 
+[2026-10-18 09:18:14] local.ERROR: Uncaught TypeError: Cannot set properties of null (setting 'value') http://127.0.0.1:8000/build/assets/app-Ca_3d8PD.js 13 8428 TypeError Cannot set properties of null (setting 'value') TypeError: Cannot set properties of null (setting 'value')
+    at y (http://127.0.0.1:8000/build/assets/app-Ca_3d8PD.js:13:8428)
+    at Object.onChange (http://127.0.0.1:8000/build/assets/app-Ca_3d8PD.js:13:7517)
+    at q (http://127.0.0.1:8000/build/assets/app-Ca_3d8PD.js:5:20835)
+    at N (http://127.0.0.1:8000/build/assets/app-Ca_3d8PD.js:1:13509)
+    at HTMLDivElement.Oe (http://127.0.0.1:8000/build/assets/app-Ca_3d8PD.js:5:15882) {"url":"http://127.0.0.1:8000/","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36","timestamp":"2026-10-18T09:18:14.095Z"} 

@@ -1,0 +1,106 @@
+0:402 | 204x199 | 2f82219a0a71ebea9413d61e9fcc98e3a401e60a | FILL | Document > Design > Home > Group 48095484 > Group 48095483 > image
+0:403 | 204x199 | 0ff925a730a7c85471226a4c11ccd68d3c5f30eb | FILL | Document > Design > Home > Group 48095484 > Group 48095483 > image
+0:404 | 254x247 | ebf03ac23380356229c11a1019ae60802599435a | FILL | Document > Design > Home > Group 48095484 > Group 48095483 > image
+0:405 | 254x247 | 6a43b3a73d727f48d5b280d8b3d3f113985139d1 | FILL | Document > Design > Home > Group 48095484 > Group 48095483 > image
+0:406 | 370x359 | fe0b59419848c064033536f9695d266139f33358 | FILL | Document > Design > Home > Group 48095484 > Group 48095483 > image
+0:407 | 370x359 | 21e4d29d1940d3972b4c147b63026457bfa7da41 | FILL | Document > Design > Home > Group 48095484 > Group 48095483 > image
+0:408 | 370x359 | df94c0edbf77663aca6dbfe09765de6ab48e703e | STRETCH | Document > Design > Home > Group 48095484 > Group 48095483 > image
+0:417 | 1440x1454 | 2f82219a0a71ebea9413d61e9fcc98e3a401e60a | FILL | Document > Design > Home > Frame 1948754071 > Frame 1948754054
+0:444 | 636x227 | 0a7bf314622b5572d29f456ce18d0421ad4dd5ac | STRETCH | Document > Design > Home > Group 48095485 > Frame 1948754064 > image
+0:451 | 526x226 | fb81c8e2cb38a9c092189c3a88be2ae0e8e713b6 | FILL | Document > Design > Home > Group 48095485 > Frame 1948754065 > image
+0:458 | 416x226 | b5285acf74ae66db2570a162cb0fa592d3e4a031 | FILL | Document > Design > Home > Group 48095485 > Frame 1948754066 > image
+0:465 | 251x228 | 1e38abad35cf21fb9cc30f78295923e6ff2e2ca0 | STRETCH | Document > Design > Home > Group 48095485 > Frame 1948754067 > image
+0:467 | 1452x2371 | 304006f4b719902ba2bcac6fd77743697fe7025e | FILL | Document > Design > Home > 2713 2
+0:476 | 744x379 | 1583b0a3a0e47e98a277b41a3d7de8da3c246ff4 | FILL | Document > Design > Home > Frame 1948754097 > Group 48095492 > Frame 1948754073 > Frame 1948754074 > image 2
+0:481 | 744x531 | 0ccf3ecb57c0d4339d18484b4517471db0d264d3 | FILL | Document > Design > Home > Frame 1948754097 > Group 48095492 > Frame 1948754074 > Frame 1948754074 > image 3
+0:486 | 754x538 | 2d8771551c8448f3e1ee1203eb7d6931415742ec | FILL | Document > Design > Home > Frame 1948754097 > Group 48095492 > Frame 1948754075 > Frame 1948754074 > image 4
+0:498 | 216x138 | 42e60c802fcfae69e1904fe49f24201964b4072f | STRETCH | Document > Design > Home > Frame 1948754078 > image 5
+0:508 | 216x138 | a5a6af9e799a0544c9b6cb8f1a7758e704a3db06 | STRETCH | Document > Design > Home > Frame 1948754081 > image 5
+0:518 | 216x138 | 1381b74c4ffae7fa57764f19a042becc7d3511c5 | STRETCH | Document > Design > Home > Frame 1948754079 > image 5
+0:528 | 216x138 | f6f0df5b23395e787742daa8ccccb88b6c958c68 | STRETCH | Document > Design > Home > Frame 1948754080 > image 5
+0:538 | 216x138 | 002694df0c66ab4204b9da41f27ebdac8df81433 | STRETCH | Document > Design > Home > Frame 1948754082 > image 5
+0:568 | 396x594 | 991cbde9bf6e563d8e5d5f408441de2d7decb744 | FILL | Document > Design > Home > Frame 1948754084 > Frame 1948754085 > Frame 1948754088 > Frame 1948754089 > man-with-glad-face-expression-keeps-arms-folded-has-positive-talk-with-friend-discuss-something-funny-wears-warm-jumper-poses-beige 1
+0:587 | 306x205 | 66ed84e11032fa1317a736708521fedb13621cd6 | STRETCH | Document > Design > Home > Frame 1948754091 > image 7
+0:592 | 306x205 | b9de7fde3812a578082fd09548e948205efeab52 | FILL | Document > Design > Home > Frame 1948754092 > image 7
+0:597 | 306x423 | fc74aea2437cc6aaef8d59dcfdfedf98989ee35f | FILL | Document > Design > Home > Frame 1948754109 > image 8
+0:602 | 306x423 | 5b2ea4401f1ca337e514d6eb07bc216caf95ef5e | FILL | Document > Design > Home > Frame 1948754110 > image 9
+0:607 | 1440x953 | 304006f4b719902ba2bcac6fd77743697fe7025e | FILL | Document > Design > Home > Group 2087327980 > 2713 1
+0:615 | 376x333 | 0e4506da31e0452292358a680b97a5dfe5c72478 | FILL | Document > Design > Home > Group 2087327980 > Frame 1948754096 > Group 48095491 > Frame 1948754096 > image 11
+0:617 | 329x291 | 19bc865d2ce7c531f367af3c1e790180d734364b | FILL | Document > Design > Home > Group 2087327980 > Frame 1948754096 > Group 48095491 > Frame 1948754098 > image 10
+0:619 | 206x183 | ab315935b2e71c62b35d1ba056f08eeeea68220f | FILL | Document > Design > Home > Group 2087327980 > Frame 1948754096 > Group 48095491 > Frame 1948754097 > image 12
+0:621 | 191x169 | 54096062af31dd5058af533197efa3c80b1bac1a | FILL | Document > Design > Home > Group 2087327980 > Frame 1948754096 > Group 48095491 > Frame 1948754099 > image 13
+0:668 | 690x818 | d1b77da60fa4793e9569c74a1048d943db441cab | STRETCH | Document > Design > Home > Frame 1948754102
+0:718 | 306x460 | 20ecff5fdb3a3abc9a9a3134d0d65d4adf3035b7 | FILL | Document > Design > Frame 1948754088 > Frame 1948754089 > man-with-glad-face-expression-keeps-arms-folded-has-positive-talk-with-friend-discuss-something-funny-wears-warm-jumper-poses-beige 1
+0:729 | 316x474 | f8c17871c11f2da15507945a4ce29e7adb5f4d4b | FILL | Document > Design > Frame 1948754101 > Frame 1948754089 > man-with-glad-face-expression-keeps-arms-folded-has-positive-talk-with-friend-discuss-something-funny-wears-warm-jumper-poses-beige 1
+0:751 | 1296x601 | b9de7fde3812a578082fd09548e948205efeab52 | FILL | Document > Design > Blog Single > Frame 1948754092 > image 7
+0:756 | 152x101 | ebff7c50fb8bc57c803a3fb3aaf98adf32ac43ad | FILL | Document > Design > Blog Single > Group 2087327978 > Frame 1948754050 > Frame 1948754048 > Frame 1948754046 > handsome-bearded-businessman-rubbing-hands-having-deal (1) 2
+0:769 | 369x369 | 8d724dfd89b5a3696cc7f791c61fda6a28e6fefe | FILL | Document > Design > Blog Single > Group 2087327977 > Frame 1948754101 > Frame 1948754067 > Frame 1261153850
+0:770 | 369x369 | 6dd965f2894f0104534ec09a34af5291b09de527 | FILL | Document > Design > Blog Single > Group 2087327977 > Frame 1948754101 > Frame 1948754067 > image
+0:825 | 1440x953 | 304006f4b719902ba2bcac6fd77743697fe7025e | FILL | Document > Design > Blog Single > Group 2087327981 > 2713 1
+0:833 | 376x333 | 0e4506da31e0452292358a680b97a5dfe5c72478 | FILL | Document > Design > Blog Single > Group 2087327981 > Frame 1948754096 > Group 48095491 > Frame 1948754096 > image 11
+0:835 | 329x291 | 19bc865d2ce7c531f367af3c1e790180d734364b | FILL | Document > Design > Blog Single > Group 2087327981 > Frame 1948754096 > Group 48095491 > Frame 1948754098 > image 10
+0:837 | 206x183 | ab315935b2e71c62b35d1ba056f08eeeea68220f | FILL | Document > Design > Blog Single > Group 2087327981 > Frame 1948754096 > Group 48095491 > Frame 1948754097 > image 12
+0:839 | 212x188 | 54096062af31dd5058af533197efa3c80b1bac1a | FILL | Document > Design > Blog Single > Group 2087327981 > Frame 1948754096 > Group 48095491 > Frame 1948754099 > image 13
+0:864 | 306x205 | 66ed84e11032fa1317a736708521fedb13621cd6 | STRETCH | Document > Design > Blog Single > Frame 1948754091 > image 7
+0:869 | 306x205 | 12c65021bc1e30d12ee95edb7f8d0c616cca30df | FILL | Document > Design > Blog Single > Frame 1948754111 > image 7
+0:874 | 306x205 | b9de7fde3812a578082fd09548e948205efeab52 | FILL | Document > Design > Blog Single > Frame 1948754092 > image 7
+0:879 | 306x205 | fc74aea2437cc6aaef8d59dcfdfedf98989ee35f | FILL | Document > Design > Blog Single > Frame 1948754109 > image 9
+0:884 | 306x205 | 594d7ad99c7c8f1dd8938c7f7140d8a189bc5186 | FILL | Document > Design > Blog Single > Frame 1948754113 > image 8
+0:889 | 306x205 | 5b2ea4401f1ca337e514d6eb07bc216caf95ef5e | STRETCH | Document > Design > Blog Single > Frame 1948754110 > image 9
+0:933 | 1440x953 | 304006f4b719902ba2bcac6fd77743697fe7025e | FILL | Document > Design > Group 2087327981 > 2713 1
+0:941 | 376x333 | 0e4506da31e0452292358a680b97a5dfe5c72478 | FILL | Document > Design > Group 2087327981 > Frame 1948754096 > Group 48095491 > Frame 1948754096 > image 11
+0:943 | 329x291 | 19bc865d2ce7c531f367af3c1e790180d734364b | FILL | Document > Design > Group 2087327981 > Frame 1948754096 > Group 48095491 > Frame 1948754098 > image 10
+0:945 | 206x183 | ab315935b2e71c62b35d1ba056f08eeeea68220f | FILL | Document > Design > Group 2087327981 > Frame 1948754096 > Group 48095491 > Frame 1948754097 > image 12
+0:947 | 212x188 | 54096062af31dd5058af533197efa3c80b1bac1a | FILL | Document > Design > Group 2087327981 > Frame 1948754096 > Group 48095491 > Frame 1948754099 > image 13
+0:992 | 521x585 | 53da0730739179b53028a06bf9129a2823c836fb | FILL | Document > Design > Make an Appointment > image 9
+0:1072 | 1296x727 | 5bd175ba6c28ba393e9e6772bbb87d3fa0be2e1e | FILL | Document > Design > Contact Us > Frame 1948754092 > image 7
+0:1134 | 636x227 | 0a7bf314622b5572d29f456ce18d0421ad4dd5ac | STRETCH | Document > Design > Services > Frame 1948754064 > image
+0:1141 | 636x226 | fb81c8e2cb38a9c092189c3a88be2ae0e8e713b6 | FILL | Document > Design > Services > Frame 1948754065 > image
+0:1148 | 636x226 | b5285acf74ae66db2570a162cb0fa592d3e4a031 | FILL | Document > Design > Services > Frame 1948754066 > image
+0:1154 | 636x228 | 4aa2f5d359ada67a96ff49947503a715a38fd16f | STRETCH | Document > Design > Services > image
+0:1155 | 636x228 | 1e38abad35cf21fb9cc30f78295923e6ff2e2ca0 | FILL | Document > Design > Services > Frame 1948754102
+0:1195 | 1440x953 | 304006f4b719902ba2bcac6fd77743697fe7025e | FILL | Document > Design > Services > Group 2087327981 > 2713 1
+0:1203 | 376x333 | 0e4506da31e0452292358a680b97a5dfe5c72478 | FILL | Document > Design > Services > Group 2087327981 > Frame 1948754096 > Group 48095491 > Frame 1948754096 > image 11
+0:1205 | 329x291 | 19bc865d2ce7c531f367af3c1e790180d734364b | FILL | Document > Design > Services > Group 2087327981 > Frame 1948754096 > Group 48095491 > Frame 1948754098 > image 10
+0:1207 | 206x183 | ab315935b2e71c62b35d1ba056f08eeeea68220f | FILL | Document > Design > Services > Group 2087327981 > Frame 1948754096 > Group 48095491 > Frame 1948754097 > image 12
+0:1209 | 212x188 | 54096062af31dd5058af533197efa3c80b1bac1a | FILL | Document > Design > Services > Group 2087327981 > Frame 1948754096 > Group 48095491 > Frame 1948754099 > image 13
+0:1236 | 1296x548 | fb81c8e2cb38a9c092189c3a88be2ae0e8e713b6 | FILL | Document > Design > Services > image
+0:1316 | 1440x953 | 304006f4b719902ba2bcac6fd77743697fe7025e | FILL | Document > Design > Services > Group 2087327981 > 2713 1
+0:1324 | 376x333 | 0e4506da31e0452292358a680b97a5dfe5c72478 | FILL | Document > Design > Services > Group 2087327981 > Frame 1948754096 > Group 48095491 > Frame 1948754096 > image 11
+0:1326 | 329x291 | 19bc865d2ce7c531f367af3c1e790180d734364b | FILL | Document > Design > Services > Group 2087327981 > Frame 1948754096 > Group 48095491 > Frame 1948754098 > image 10
+0:1328 | 206x183 | ab315935b2e71c62b35d1ba056f08eeeea68220f | FILL | Document > Design > Services > Group 2087327981 > Frame 1948754096 > Group 48095491 > Frame 1948754097 > image 12
+0:1330 | 212x188 | 54096062af31dd5058af533197efa3c80b1bac1a | FILL | Document > Design > Services > Group 2087327981 > Frame 1948754096 > Group 48095491 > Frame 1948754099 > image 13
+0:1409 | 216x138 | 42e60c802fcfae69e1904fe49f24201964b4072f | STRETCH | Document > Design > Dentists > Frame 1948754078 > image 5
+0:1419 | 216x138 | a5a6af9e799a0544c9b6cb8f1a7758e704a3db06 | STRETCH | Document > Design > Dentists > Frame 1948754081 > image 5
+0:1429 | 216x138 | 1381b74c4ffae7fa57764f19a042becc7d3511c5 | STRETCH | Document > Design > Dentists > Frame 1948754079 > image 5
+0:1439 | 216x138 | f6f0df5b23395e787742daa8ccccb88b6c958c68 | STRETCH | Document > Design > Dentists > Frame 1948754080 > image 5
+0:1449 | 216x138 | 002694df0c66ab4204b9da41f27ebdac8df81433 | STRETCH | Document > Design > Dentists > Frame 1948754082 > image 5
+0:1459 | 216x138 | 5e9514706902baef755b30be7a82e4feba8c756c | STRETCH | Document > Design > Dentists > Frame 1948754101 > image 5
+0:1461 | 1440x953 | 304006f4b719902ba2bcac6fd77743697fe7025e | FILL | Document > Design > Dentists > Group 2087327981 > 2713 1
+0:1469 | 376x333 | 0e4506da31e0452292358a680b97a5dfe5c72478 | FILL | Document > Design > Dentists > Group 2087327981 > Frame 1948754096 > Group 48095491 > Frame 1948754096 > image 11
+0:1471 | 329x291 | 19bc865d2ce7c531f367af3c1e790180d734364b | FILL | Document > Design > Dentists > Group 2087327981 > Frame 1948754096 > Group 48095491 > Frame 1948754098 > image 10
+0:1473 | 206x183 | ab315935b2e71c62b35d1ba056f08eeeea68220f | FILL | Document > Design > Dentists > Group 2087327981 > Frame 1948754096 > Group 48095491 > Frame 1948754097 > image 12
+0:1475 | 212x188 | 54096062af31dd5058af533197efa3c80b1bac1a | FILL | Document > Design > Dentists > Group 2087327981 > Frame 1948754096 > Group 48095491 > Frame 1948754099 > image 13
+0:1543 | 1296x548 | 4274e349aef9dcbb99c114092f93ea7989724b33 | FILL | Document > Design > About Us > image
+0:1544 | 1296x548 | 0239195723291670cc274bf14b523cb994c92905 | FILL | Document > Design > About Us > close-up-patient-mouth-undergoing-dental-check-up 1
+0:1549 | 164x32 | d21b8af4c674e493318596160c810051d289e98f | FILL | Document > Design > About Us > Group 2087327982 > Group 102 > Frame 54 > Frame 50 > image 8
+0:1551 | 162x24 | 948de501a1e899a24c59280671f2677069de2b25 | FILL | Document > Design > About Us > Group 2087327982 > Group 102 > Frame 54 > Frame 51 > image 9
+0:1553 | 127x24 | 8d6610d13010734e5c65650f2d99f2fc5f5bf72d | FILL | Document > Design > About Us > Group 2087327982 > Group 102 > Frame 54 > Frame 52 > image 10
+0:1555 | 151x32 | 36e7d3d424a7108d58edc11919ae67dd5e06e59a | FILL | Document > Design > About Us > Group 2087327982 > Group 102 > Frame 54 > Frame 53 > image 11
+0:1567 | 216x138 | 42e60c802fcfae69e1904fe49f24201964b4072f | STRETCH | Document > Design > About Us > Group 2087327983 > Frame 1948754078 > image 5
+0:1577 | 216x138 | a5a6af9e799a0544c9b6cb8f1a7758e704a3db06 | STRETCH | Document > Design > About Us > Group 2087327983 > Frame 1948754081 > image 5
+0:1587 | 216x138 | 1381b74c4ffae7fa57764f19a042becc7d3511c5 | STRETCH | Document > Design > About Us > Group 2087327983 > Frame 1948754079 > image 5
+0:1597 | 216x138 | f6f0df5b23395e787742daa8ccccb88b6c958c68 | STRETCH | Document > Design > About Us > Group 2087327983 > Frame 1948754080 > image 5
+0:1607 | 216x138 | 002694df0c66ab4204b9da41f27ebdac8df81433 | STRETCH | Document > Design > About Us > Group 2087327983 > Frame 1948754082 > image 5
+0:1624 | 620x622 | 8f4892641cdbab78159e083a5ce8eed2fa164554 | FILL | Document > Design > About Us > Frame 1948754108 > Frame 1948754107
+0:1626 | 1440x953 | 304006f4b719902ba2bcac6fd77743697fe7025e | FILL | Document > Design > About Us > Group 2087327981 > 2713 1
+0:1634 | 376x333 | 0e4506da31e0452292358a680b97a5dfe5c72478 | FILL | Document > Design > About Us > Group 2087327981 > Frame 1948754096 > Group 48095491 > Frame 1948754096 > image 11
+0:1636 | 329x291 | 19bc865d2ce7c531f367af3c1e790180d734364b | FILL | Document > Design > About Us > Group 2087327981 > Frame 1948754096 > Group 48095491 > Frame 1948754098 > image 10
+0:1638 | 206x183 | ab315935b2e71c62b35d1ba056f08eeeea68220f | FILL | Document > Design > About Us > Group 2087327981 > Frame 1948754096 > Group 48095491 > Frame 1948754097 > image 12
+0:1640 | 212x188 | 54096062af31dd5058af533197efa3c80b1bac1a | FILL | Document > Design > About Us > Group 2087327981 > Frame 1948754096 > Group 48095491 > Frame 1948754099 > image 13
+0:1705 | 571x460 | 1381b74c4ffae7fa57764f19a042becc7d3511c5 | STRETCH | Document > Design > Dentist Single > Professional Doctor Portrait 1
+0:1726 | 1440x953 | 304006f4b719902ba2bcac6fd77743697fe7025e | FILL | Document > Design > Dentist Single > Group 2087327981 > 2713 1
+0:1734 | 376x333 | 0e4506da31e0452292358a680b97a5dfe5c72478 | FILL | Document > Design > Dentist Single > Group 2087327981 > Frame 1948754096 > Group 48095491 > Frame 1948754096 > image 11
+0:1736 | 329x291 | 19bc865d2ce7c531f367af3c1e790180d734364b | FILL | Document > Design > Dentist Single > Group 2087327981 > Frame 1948754096 > Group 48095491 > Frame 1948754098 > image 10
+0:1738 | 206x183 | ab315935b2e71c62b35d1ba056f08eeeea68220f | FILL | Document > Design > Dentist Single > Group 2087327981 > Frame 1948754096 > Group 48095491 > Frame 1948754097 > image 12
+0:1740 | 212x188 | 54096062af31dd5058af533197efa3c80b1bac1a | FILL | Document > Design > Dentist Single > Group 2087327981 > Frame 1948754096 > Group 48095491 > Frame 1948754099 > image 13

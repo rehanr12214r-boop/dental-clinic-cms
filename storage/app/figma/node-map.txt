@@ -1,0 +1,17 @@
+﻿FIGMA FILE: Medio â€“ Dental Clinic & Healthcare Website Template | Dentist, Appointments & CMS (Community)
+FILE KEY: dGy7oM1M4h9rp9B3I7p50w
+PAGE: Design [0:1]
+
+FRAME: Home [0:363] 1440.0x12341.0
+FRAME: Frame 1948754088 [0:710] 1172.0x448.0
+FRAME: Frame 1948754101 [0:721] 1172.0x448.0
+FRAME: Blog Single [0:732] 1440.0x4514.0
+FRAME: Blog Single [0:845] 1440.0x2881.0
+FRAME: Group 2087327981 [0:932] 1440.0002441406250x953.0
+FRAME: Make an Appointment [0:953] 1440.0x1706.0
+FRAME: Contact Us [0:1031] 1440.0x2591.0
+FRAME: Services [0:1111] 1440.0x3273.0
+FRAME: Services [0:1215] 1440.0x3889.0
+FRAME: Dentists [0:1336] 1440.0x2980.0
+FRAME: About Us [0:1481] 1440.0x5118.0
+FRAME: Dentist Single [0:1646] 1440.0x2491.0
